@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there, I'm Omar 👋
 
-<!--
-**zerepramo/zerepramo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a law student interested in legal technology, artificial intelligence, privacy, cybersecurity, and emerging technology law.
 
-Here are some ideas to get you started:
+## Currently building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Osku
+A law-school study platform designed to combine outlining, case briefing, flashcards, quizzes, and AI-assisted study tools in one workspace.
+
+Osku is currently in development and the source repository is private.
+
+## Osku
+
+Osku is a law-school study platform I'm currently developing. It brings together outlining, case briefing, flashcards, quizzes, and AI-assisted study tools in one workspace.
+
+### Preview
+
+![Osku Dashboard](./images/osku-dashboard.png)
+
+![Study Center](./images/study-center.png)
+
+![Case Brief Tool](./images/case-brief.png)
+
+The production repository is private while development is ongoing.
+
+## Interests
+
+- Legal technology
+- Artificial intelligence and law
+- Privacy and cybersecurity
+- Blockchain and digital identity

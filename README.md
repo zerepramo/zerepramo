@@ -1,4 +1,4 @@
-## Hi there, I'm Omar 👋
+## Hi there👋
 
 I'm a law student interested in legal technology, artificial intelligence, privacy, cybersecurity, and emerging technology law.
 

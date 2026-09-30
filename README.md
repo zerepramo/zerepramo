@@ -7,8 +7,6 @@ Currently building
 ## Osku
 Osku is currently in development and the source repository is private.
 
-### Osku
-
 Osku is a law-school study platform I'm currently developing. It brings together outlining, case briefing, flashcards, quizzes, and AI-assisted study tools in one workspace.
 
 ### Preview

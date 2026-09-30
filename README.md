@@ -2,12 +2,13 @@
 
 I'm a law student interested in legal technology, artificial intelligence, privacy, cybersecurity, and emerging technology law.
 
-Currently building
+## Currently Building
 
-## Osku
-Osku is currently in development and the source repository is private.
+### Osku
 
 Osku is a law-school study platform I'm currently developing. It brings together outlining, case briefing, flashcards, quizzes, and AI-assisted study tools in one workspace.
+
+The production repository is private while development is ongoing.
 
 ### Preview
 
@@ -17,12 +18,10 @@ Osku is a law-school study platform I'm currently developing. It brings together
 
 ![Folders](./images/osku-folder.png)
 
+![Study Deck](./images/osku-study-deck.png)
 
-The production repository is private while development is ongoing.
-
-### Interests
+## Interests
 
 - Legal technology
 - Artificial intelligence and law
-- Privacy and cybersecurity
 - Blockchain and digital identity

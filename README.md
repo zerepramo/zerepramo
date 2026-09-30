@@ -5,8 +5,6 @@ I'm a law student interested in legal technology, artificial intelligence, priva
 Currently building
 
 ## Osku
-A law-school study platform designed to combine outlining, case briefing, flashcards, quizzes, and AI-assisted study tools in one workspace.
-
 Osku is currently in development and the source repository is private.
 
 ### Osku

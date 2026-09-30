@@ -15,9 +15,9 @@ Osku is a law-school study platform I'm currently developing. It brings together
 
 ### Preview
 
-![Osku Dashboard](./images/osku-dashboard.png)
+![Osku Dashboard](./images/oskuhomepage.png)
 
-![Study Center](./images/study-center.png)
+![Study Center](./images/studycenter.png)
 
 
 The production repository is private while development is ongoing.
